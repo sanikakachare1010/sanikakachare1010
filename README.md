@@ -1,6 +1,6 @@
 ![logo](https://github.com/sanikakachare1010/sanikakachare1010/blob/main/GitBanner02.png)
 <h1 align="center">Hi 👋, I'm Sanika Kachare</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right"alt="coding"width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikakachare1010&label=Profile%20views&color=0e75b6&style=flat" alt="sanikakachare1010" /> </p>
